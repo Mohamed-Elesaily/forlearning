@@ -1,5 +1,4 @@
 # Topics
 
-## [C++](C++/c++.md)
-
-## [Design Pattern](designPattern/pattern.md)
+## C++
+ - [static and dynamic binding](C++/static_and_dynamic.md)
